@@ -33,4 +33,4 @@ Landing Page проекта - [TBD]
 
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
 
-[Отчет]([https://docs.google.com/document/d/1caqfV8wfF1Q10t4vSO-bQVSbTuFQf8Y1E9HIQ_iqWUo/edit?usp=sharing](https://docs.google.com/document/d/1AUY9aOOZ4LWsMdbwTBdDwd7PPvgzPBmq/edit#heading=h.30j0zll))
+[Отчет]([[https://docs.google.com/document/d/1caqfV8wfF1Q10t4vSO-bQVSbTuFQf8Y1E9HIQ_iqWUo/edit?usp=sharing](https://docs.google.com/document/d/1AUY9aOOZ4LWsMdbwTBdDwd7PPvgzPBmq/edit#heading=h.30j0zll)](https://docs.google.com/document/d/1AUY9aOOZ4LWsMdbwTBdDwd7PPvgzPBmq/edit?usp=sharing&ouid=110064097356864770428&rtpof=true&sd=true))
