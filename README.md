@@ -34,3 +34,7 @@ Landing Page проекта - [TBD]
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
 
 [Отчет](https://docs.google.com/document/d/1AUY9aOOZ4LWsMdbwTBdDwd7PPvgzPBmq/edit?usp=sharing&ouid=110064097356864770428&rtpof=true&sd=true)
+
+## Экзаминационный билет №4
+
+Ответ на экзаминационный билет доступен по ссылке: билет №4
