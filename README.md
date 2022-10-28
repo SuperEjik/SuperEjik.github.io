@@ -37,4 +37,4 @@ Landing Page проекта - [TBD]
 
 ## Экзаминационный билет №4
 
-Ответ на экзаминационный билет доступен по ссылке: [билет №4](https://docs.google.com/document/d/123a5867SzWsdc6M1fF5Q6ebCRl48UIWHk5vEAK97rAs/edit)
+Ответ на экзаминационный билет доступен по ссылке: [билет №4](https://github.com/stankin/inet-2022/wiki/exam04)
