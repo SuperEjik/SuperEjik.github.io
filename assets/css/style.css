@@ -180,6 +180,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .block-left{width:60%;overflow:auto;float:left;}
 .block-right{width:40%;overflow:auto;}
+.block-center{width:100%;border-spacing: 0;}
 
 .nav_sec{
     font-size: 16px;
@@ -235,4 +236,34 @@ h1, h2, h3, h4, h5, h6 {
 
 .ackground__rectangle__21{
     width: 100%;
+}
+
+.sec_lab2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100%;
+    /*height: 100vh;*/
+
+    background: url("../images/lab2.jpg") center
+    no-repeat;
+
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.sec_lab4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100%;
+    /*height: 100vh;*/
+
+    background: url("../images/imgonline-com-ua-Blur-9GuY0w80FBMVTd3Z.jpg") center
+    no-repeat;
+
+    -webkit-background-size: cover;
+    background-size: cover;
 }
